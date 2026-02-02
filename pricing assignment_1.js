@@ -1,5 +1,5 @@
 // products name
-let product = "chipotle Burrito bowl";
+let product = "Chipotle Burrito Bowl";
 
 // products price and also other variables
 let unitcost = 4.75;
